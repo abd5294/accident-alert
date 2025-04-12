@@ -1,10 +1,11 @@
 # Accident Detection App
 
-A Flutter mobile app that displays real-time accident data using Firebase Firestore and Realtime Database.
+A Flutter application that fetches and displays accident-related data from Firebase Firestore and Realtime Database. The data is uploaded by a hardware system designed to detect accidents and send information to Firebase.
 
 ## Features
-- Real-time accident alerts from Firebase.
-- Intuitive dashboard for user-friendly data visualization.
+- Fetches accident data from Firebase Firestore and Realtime Database.
+- Displays real-time accident information in a user-friendly interface.
+- Simple and lightweight design for quick access to critical data.
 
 ## Tech Stack
 - **Frontend**: Flutter, Dart
